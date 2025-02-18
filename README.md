@@ -7,10 +7,10 @@
 ## 🚀 Sobre mí
 
 👨‍🔬 **Doctor en Ingeniería de Sistemas Robóticos y Mecatrónicos** con experiencia en:
-- **Interacción humano-robot**, inteligencia artificial y visión por computadora.
-- Desarrollo de modelos de **inteligencia artificial** para visión por computadora, procesamiento de señales y control.
-- Implementación de estrategias de **aprendizaje automático** para interacción humano-robot.
-- Uso de tecnologías embebidas como **FPGAs y GPUs** para aplicaciones en tiempo real.
+- Interacción humano-robot, inteligencia artificial y visión por computadora.
+- Desarrollo de modelos de inteligencia artificial para visión por computadora, procesamiento de señales y control.
+- Implementación de estrategias de aprendizaje automático para interacción humano-robot.
+- Uso de tecnologías embebidas como FPGAs y GPUs para aplicaciones en tiempo real.
 
 ---
 
@@ -58,7 +58,7 @@
 ## 🌍 Contacto
 📩 **Email**: oscarisaisd@gmail.com  
 🔗 **LinkedIn**: [Mi Perfil](https://www.linkedin.com/in/oscar-isaid-pellico-s%C3%A1nchez-a692aa229/)  
-🌎 **GitHub**: [github.com/tu-usuario](https://github.com/SolKacil)  
+🌎 **GitHub**: [Mí GitHub](https://github.com/SolKacil)  
 
 ---
 
