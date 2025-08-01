@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Oscar Pellico 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/SolKacil/SolKacil/blob/main/Robot1.gif" width="120px">
+  <img src="https://github.com/SolKacil/SolKacil/blob/main/Robot1.gif" width="180px">
 </p>
 
 ## 🚀 Sobre mí
