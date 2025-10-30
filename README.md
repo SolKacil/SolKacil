@@ -58,7 +58,6 @@
 ## 🌍 Contacto
 📩 **Email**: oscarisaisd@gmail.com  
 🔗 **LinkedIn**: [Mi Perfil](https://www.linkedin.com/in/oscar-isaid-pellico-s%C3%A1nchez-a692aa229/)  
-🌎 **GitHub**: [Mí GitHub](https://github.com/SolKacil)  
 
 ---
 
