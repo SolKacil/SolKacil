@@ -4,9 +4,9 @@
   <img src="https://github.com/SolKacil/SolKacil/blob/main/Robot1.gif" width="180px">
 </p>
 
-## 🚀 Sobre mí
+## Sobre mí
 
-👨‍🔬 **Doctor en Ingeniería de Sistemas Robóticos y Mecatrónicos** con experiencia en:
+**Doctor en Ingeniería de Sistemas Robóticos y Mecatrónicos** con experiencia en:
 - Interacción humano-robot, inteligencia artificial y visión por computadora.
 - Desarrollo de modelos de inteligencia artificial para visión por computadora, procesamiento de señales y control.
 - Implementación de estrategias de aprendizaje automático para interacción humano-robot.
@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
@@ -25,7 +25,7 @@
 
 ---
 
-## 📌 Últimos Proyectos Destacados
+## Últimos Proyectos Destacados
 
 🔹 **Teleoperación Bilateral de Robots colaborativos mediante captura de movimiento**  
 🔹 **Sistema de Control Servo-visual de robots antropomórficos**  
@@ -61,4 +61,4 @@
 
 ---
 
-💡 **¡Gracias por visitar mi perfil!** 🚀 No dudes en contactarme para colaboraciones o proyectos de robótica, IA y control.
+💡 **¡Gracias por visitar mi perfil!** No dudes en contactarme para colaboraciones o proyectos de robótica, IA y control.
